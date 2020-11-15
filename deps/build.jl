@@ -1,7 +1,7 @@
 println("Init Python deps")
 import PyCall: pyimport
 
-const PIP_PACKAGES = ["PyCIM"]
+const PIP_PACKAGES = ["PyCIM","cimpy"]
 
 sys = pyimport("sys")
 subprocess = pyimport("subprocess")
