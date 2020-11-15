@@ -1,3 +1,4 @@
+println("Init Python deps")
 import PyCall: pyimport
 
 const PIP_PACKAGES = ["PyCIM"]
