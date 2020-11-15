@@ -1,3 +1,0 @@
-[submodule "deps/PyCIM"]
-	path = deps/PyCIM
-	url = https://github.com/rwl/PyCIM.git
