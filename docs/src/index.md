@@ -4,6 +4,8 @@ CurrentModule = CIM
 
 # CIM
 
+This package is not functional, do not use it.
+
 ```@index
 ```
 

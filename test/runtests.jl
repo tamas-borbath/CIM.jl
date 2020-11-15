@@ -1,6 +1,3 @@
-using CIM
-using Test
+using SafeTestsets
 
-@testset "CIM.jl" begin
-    # Write your tests here.
-end
+@safetestset "Dummy testing" begin include("dummy_tests.jl") end

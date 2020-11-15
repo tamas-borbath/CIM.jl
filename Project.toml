@@ -3,11 +3,14 @@ uuid = "ef8f11b9-f01b-4e33-b363-9a44604d35b7"
 authors = ["Tamás Borbáth"]
 version = "0.1.0"
 
+[deps]
+
 [compat]
 julia = "1.5"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 
 [targets]
 test = ["Test"]
